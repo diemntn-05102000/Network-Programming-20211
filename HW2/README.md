@@ -1,0 +1,1 @@
+make clean && make all && ./resolver parameter1 parameter2
